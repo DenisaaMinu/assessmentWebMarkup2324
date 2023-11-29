@@ -1,5 +1,5 @@
 Student name: Denisa Minu
 Student number: 720645
 Student class: IT1B
-GitHub Repository: https://github.com/DenisaaMinu/assessment2324_webMarkup
-GitHub Pages URL: https://denisaaminu.github.io/assessment2324_webMarkup/
+GitHub Repository: https://github.com/DenisaaMinu/assessmentWebMarkup2324
+GitHub Pages URL:  https://denisaaminu.github.io/assessmentWebMarkup2324/
